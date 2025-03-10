@@ -116,7 +116,6 @@ print("=========10=========")
 # sakinys = "Šiandien labai graži diena"
 # analizuoti_sakinį(sakinys)
 #
-#
 # sakinys2 = "Labas, pasauli! 123"
 # analizuoti_sakinį(sakinys2)
 
